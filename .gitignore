@@ -1,0 +1,6 @@
+**/Lib
+**/phoreur images
+**/Scripts
+**/.pycache
+pyvenv.cfg
+
